@@ -4,7 +4,7 @@ Trailhead URL's
 
 Team lead - https://trailblazer.me/id/anbuj1
 Team member 1 - https://trailblazer.me/id/a362
-Team member 2 - https://trailblazar.me/id/strailhead
+Team member 2 - http://trailblazer.me/id/a552
 
 
 
